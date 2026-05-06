@@ -159,10 +159,10 @@ allowing full cloud-hosted AI execution without dedicated infrastructure.
 * Multi-user authentication system
 
 
-Setup Instructions
+# Setup Instructions
 
-1)Download the notebook (.iypnb file)
-2)Upload it to Google Colab
-3)Change the Runtime to T4-GPU
-4)Go to secrets section in the google colab and add a new secret "NGROK_AUTH_TOKEN" and turn the toggle on so that the repository can access it.
-5)Run the notebook and click on the ngrok url created.
+* Download the notebook (.iypnb file)
+* Upload it to Google Colab
+* Change the Runtime to T4-GPU
+* Go to secrets section in the google colab and add a new secret "NGROK_AUTH_TOKEN" and turn the toggle on so that the repository can access it.
+* Run the notebook and click on the ngrok url created.
